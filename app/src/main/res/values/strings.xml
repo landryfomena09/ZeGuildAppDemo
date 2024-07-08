@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">projetDemo</string>
+    <string name="fruit_manger">Produit mangé ?</string>
+    <string name="acheteLe">Acheter le</string>
+    <string name="indiqueQuantite">Indiquez la quantité jetée</string>
+    <string name="pas_de_produit">Pas de produit qui périme aujourd\'hui</string>
+</resources>
